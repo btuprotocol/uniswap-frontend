@@ -388,6 +388,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [SYMBOL]: 'ZRX',
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xaE76c84C9262Cdb9abc0C2c8888e62Db8E22A0bF'
+    },
+    '0xb683d83a532e2cb7dfa5275eed3698436371cc9f: {
+      [NAME]: 'BTU Protocol',
+      [SYMBOL]: 'BTU',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0xeA3A62838477082d8f2106c43796D636dc78d8A4'
     }
   }
 }
